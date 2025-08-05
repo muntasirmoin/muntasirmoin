@@ -1,40 +1,96 @@
-# Welcome to my portfolio! 👋
+# 👋 Welcome to My Portfolio
 
-I'm **Muntasir Moin Chowdhury**, a junior MERN Web Developer. 
+## 👨‍💻  About Me
 
-I am a driven and goal-oriented web developer, constantly seeking opportunities for growth and improvement.
+Hello! I'm **Muntasir Moin Chowdhury**, a passionate and goal-driven junior MERN stack developer with a strong foundation in building full-stack web applications.
 
-Having recently completed a course, I have gained hands-on experience in developing web applications using the MERN stack.
+I specialize in creating scalable and maintainable backend services using **Node.js**, **Express.js**, and **TypeScript**, as well as managing data effectively with **MongoDB** and **Mongoose**. On the frontend, I build responsive, accessible, and user-friendly interfaces using **React**, **Tailwind CSS**, and **ShadCN UI**.
 
-My proficiency in **MongoDB** enables me to efficiently handle data and design scalable database structures. Through the use of **Express.js** and **Node.js**, I have successfully built strong server-side applications and implemented RESTful APIs, ensuring seamless communication between the client and server.
-
-On the frontend, I have sharpened my skills in **HTML**, **CSS**, **Bootstrap**, **Tailwind CSS**, and **daisyUI**, allowing me to create visually appealing and responsive user interfaces. Moreover, I have utilized **React** and **React Router** to develop dynamic and interactive web applications.
+My approach emphasizes writing clean, structured code that follows best practices in security, performance, and maintainability. I'm always eager to learn and collaborate on impactful projects.
 
 ---
 
-### Expertise
-- <img src="https://cdn.simpleicons.org/html5/FF5722" width="20" /> HTML | 
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="20" /> CSS | 
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="20" /> Bootstrap | 
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="20" /> Tailwind | 
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="20" /> MongoDB | 
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="20" /> React
+## 🧠 Backend Skills
 
-### Comfortable With
-- <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="20" /> JavaScript | 
-  <img src="https://cdn.simpleicons.org/babel/F9DC3E" width="20" /> ES6 |  <!-- Using Babel icon for ES6 -->
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="20" /> Firebase
+- ⚡ **Node.js** — High-performance server-side JavaScript runtime  
+- 🌐 **Express.js** — Web framework for building APIs and handling HTTP requests  
+- 🔤 **TypeScript** — Strongly typed language for reliable, scalable code  
+- 🍃 **MongoDB & Mongoose** — NoSQL database and object modeling  
+- 🔐 Authentication & Authorization — JWT, Passport.js  
+- 🧱 Middleware — CORS, rate limiting, error handling, session management  
+- 📡 REST API Design — Clean, scalable, and secure endpoint structures  
+- 📦 Modular Architecture — Separation of concerns and maintainability
 
-### Familiar With
-- <img src="https://cdn.simpleicons.org/node.js/339933" width="20" /> Node.js | 
-  <img src="https://cdn.simpleicons.org/express/000000" width="20" /> ExpressJS | 
-  <img src="https://cdn.simpleicons.org/api/000000" width="20" /> REST APIs
+### 🏷️ Backend Tech Stack Badges
 
-### Tools
-- <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="20" /> VS Code | 
-  <img src="https://cdn.simpleicons.org/git/F05032" width="20" /> Git | 
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="20" /> Figma | 
-  <img src="https://cdn.simpleicons.org/render/000000" width="20" /> Render | 
-  <img src="https://cdn.simpleicons.org/vercel/000000" width="20" /> Vercel | 
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="20" /> Netlify | 
-  <img src="https://cdn.simpleicons.org/imgbb/0088FF" width="20" /> imgbb  <!-- Fixed imgbb icon color -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logoColor=white" />
+</p>
+
+---
+
+## 🎨 Frontend Skills
+
+- ⚛ **React.js** — Component-based UI library for building interactive interfaces  
+- 🌐 **HTML5 & CSS3** — Semantically structured and responsive layout design  
+- 🎯 **Bootstrap**, **Tailwind CSS**, **daisyUI**, **ShadCN UI** — Utility-first, modern design systems  
+- 🧭 **React Router v7** — Declarative client-side routing for SPAs  
+- 📋 **React Hook Form** — Form management and validation  
+- 🧪 **Zod** — Schema-based validation for forms and data  
+- 🎛 **Redux Toolkit** — Scalable and predictable state management  
+- ⚡ **Vite** — Superfast development and build tooling  
+- 🔤 **TypeScript** — Strong typing for improved code reliability  
+- 🧹 **ESLint** — Code linting to maintain code quality  
+- 🧱 **Radix UI** + 🖼 **Lucide Icons** — Accessible components and modern icons
+
+### 🏷️ Frontend Tech Stack Badges
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/ShadCN_UI-1E293B?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-4A5568?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white" />
+</p>
+
+---
+
+## 🛠 Tools & Platforms
+
+- 💻 **VS Code**, **Git**, **Figma** — For development, version control, and UI design  
+- 🚀 **Render**, **Vercel**, **Netlify** — Deployment and hosting platforms  
+- 🖼 **imgbb** — Image hosting for static assets  
+- 🔥 **Firebase** — For authentication and backend services in some projects
+
+### 🏷️ Tools & Platform Badges
+
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+</p>
+
+---
+
+## 📫 Contact
+
+- 📧 Email: `muntasirmoinchowdhury099@gmail.com`  
+- 💼 LinkedIn: 
+- 🌐 Portfolio: 
+
+---
+
+### 🙌 Thank you for visiting my portfolio!
+
+Feel free to explore my repositories and connect if you'd like to collaborate!
