@@ -81,7 +81,7 @@ My approach emphasizes writing clean, structured code that follows best practice
 
 ---
 
-## Tech Stack Gallery
+## <h2 align="center">Tech Stack Gallery</h2>
 
 <p align="center">
 <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/HTML.png"/>
