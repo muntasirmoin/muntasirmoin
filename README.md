@@ -1,5 +1,3 @@
-# 👋 Welcome to My Portfolio
-
 ## 👨‍💻  About Me
 
 Hello! I'm **Muntasir Moin Chowdhury**, a passionate and goal-driven junior MERN stack developer with a strong foundation in building full-stack web applications.
