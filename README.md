@@ -108,9 +108,16 @@ My approach emphasizes writing clean, structured code that follows best practice
 <br/>
 
 
-## 🧑‍💻 Most Used Languages
+<h2 align="center">🧑‍💻 Most Used Languages</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirmoin&layout=compact&theme=dracula&hide=html,php)](https://github.com/muntasirmoin/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/muntasirmoin/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirmoin&layout=compact&theme=dracula&hide=html,php" 
+      alt="Top Languages" 
+    />
+  </a>
+</p>
 
 
 ## 📫 Contact
