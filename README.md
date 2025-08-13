@@ -7,6 +7,12 @@ I specialize in creating scalable and maintainable backend services using **Node
 My approach emphasizes writing clean, structured code that follows best practices in security, performance, and maintainability. I'm always eager to learn and collaborate on impactful projects.
 
 ---
+## 📊 GitHub Stats
+
+| Stats | Top Languages |
+|-------|----------------|
+| ![Muntasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=muntasirmoin&show_icons=true&theme=dracula&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirmoin&layout=compact&theme=dracula&langs_count=8)](https://github.com/muntasirmoin/github-readme-stats) |
+
 
 ## 🧠 Backend Skills
 
