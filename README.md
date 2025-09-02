@@ -10,9 +10,6 @@ I specialize in creating scalable and maintainable backend services using **Node
 
 My approach emphasizes writing clean, structured code that follows best practices in security, performance, and maintainability. I'm always eager to learn and collaborate on impactful projects.
 
----
-
-
 <h2 align="center">📊 GitHub Commit Status</h2>
 
 <table align="center">
@@ -64,6 +61,7 @@ My approach emphasizes writing clean, structured code that follows best practice
 
 
 
+---
 
 
 ## 🧠 Backend Skills
