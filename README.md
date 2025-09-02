@@ -14,7 +14,7 @@ My approach emphasizes writing clean, structured code that follows best practice
 
 | GitHub Stats | Top Languages | GitHub Streak |
 |--------------|---------------|---------------|
-| <a href="https://github.com/muntasirmoin/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=muntasirmoin&show_icons=true&theme=dracula&count_private=true&hide=prs,contribs&include_all_commits=true" alt="GitHub Stats" /></a> | <a href="https://github.com/muntasirmoin/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirmoin&layout=compact&theme=dracula&hide=html,php&card_width=400" alt="Top Languages" /></a> | <a href="https://github.com/muntasirmoin/github-readme-streak-stats">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntasirmoin&theme=dracula&hide_border=false" alt="GitHub Streak" /></a> |
+| <a href="https://github.com/muntasirmoin/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=muntasirmoin&show_icons=true&theme=dracula&count_private=true&hide=prs,contribs&include_all_commits=true" alt="GitHub Stats" /></a> | <a href="https://github.com/muntasirmoin/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirmoin&layout=compact&theme=dracula&hide=html,php&card_width=400" alt="Top Languages" /></a> | <a href="https://github.com/muntasirmoin/github-readme-streak-stats">   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntasirmoin&theme=dracula&hide_border=false" alt="GitHub Streak" /></a> |
 
 
 
