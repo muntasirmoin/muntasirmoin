@@ -149,7 +149,7 @@ My approach emphasizes writing clean, structured code that follows best practice
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp; <!-- adds space between badges -->
-  <a href="https://muntasirmoinportfolio.vercel.app/">
+  <a href="https://muntasir-moin-chowdhury-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
