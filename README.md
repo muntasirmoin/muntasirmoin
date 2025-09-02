@@ -13,19 +13,42 @@ My approach emphasizes writing clean, structured code that follows best practice
 ---
 
 
+<h2 align="center">📊 GitHub Commit Status</h2>
+
 <table align="center">
   <tr>
+    <!-- GitHub Total Contributions -->
     <td align="center">
-       <img 
-      src="https://github-readme-stats.vercel.app/api?username=muntasirmoin&show_icons=true&theme=dracula&count_private=true&hide=stars,contribs&include_all_commits=true" 
-      alt="GitHub Stats" 
-    />
+      <a href="https://github.com/muntasirmoin/github-readme-stats">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=muntasirmoin&show_icons=true&theme=dracula&count_private=true&hide=prs,contribs&include_all_commits=true" 
+          alt="GitHub Stats" 
+        />
+      </a>
     </td>
+
+    <!-- Top Languages -->
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirmoin&layout=compact&theme=dracula&hide=html,php&card_width=400" alt="Top Languages" />
+      <a href="https://github.com/muntasirmoin/github-readme-stats">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirmoin&layout=compact&theme=dracula&hide=html,php&card_width=400" 
+          alt="Top Languages" 
+        />
+      </a>
+    </td>
+
+    <!-- GitHub Streak -->
+    <td align="center">
+      <a href="https://github.com/muntasirmoin/github-readme-streak-stats">
+        <img 
+          src="https://github-readme-streak-stats.herokuapp.com/?user=muntasirmoin&theme=dracula&hide_border=false" 
+          alt="GitHub Streak" 
+        />
+      </a>
     </td>
   </tr>
 </table>
+
 
 
 
