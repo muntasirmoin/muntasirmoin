@@ -1,3 +1,7 @@
+  <div align="center">
+    <img src="https://res.cloudinary.com/dta2gcxsl/image/upload/v1756836732/github-header-banner_ktmuvo.png" alt="Banner" width="100%">
+  </div>
+
 ## 👨‍💻  About Me
 
 Hello! I'm **Muntasir Moin Chowdhury**, a passionate and goal-driven junior MERN stack developer with a strong foundation in building full-stack web applications.
