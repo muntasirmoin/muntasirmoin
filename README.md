@@ -16,7 +16,10 @@ My approach emphasizes writing clean, structured code that follows best practice
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=muntasirmoin&show_icons=true&theme=dracula" alt="GitHub Stats" />
+       <img 
+      src="https://github-readme-stats.vercel.app/api?username=muntasirmoin&show_icons=true&theme=dracula&count_private=true&hide=stars,contribs&include_all_commits=true" 
+      alt="GitHub Stats" 
+    />
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirmoin&layout=compact&theme=dracula&hide=html,php&card_width=400" alt="Top Languages" />
