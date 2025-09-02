@@ -140,9 +140,16 @@ My approach emphasizes writing clean, structured code that follows best practice
 
 
 <p align="">
- 📧 Email: `muntasirmoinchowdhury099@gmail.com`  
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/muntasir-moin-chowdhury">Muntasir Moin Chowdhury</a>  
-- 🌐 Portfolio: <a href="https://muntasirmoinportfolio.vercel.app/">muntasirmoinportfolio.vercel.app</a>
+- 📧 Email: `muntasirmoinchowdhury099@gmail.com`  
+ <a href="https://github.com/muntasirmoin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/muntasir-moin-chowdhury">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://muntasirmoinportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 
