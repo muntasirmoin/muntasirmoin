@@ -14,10 +14,8 @@ My approach emphasizes writing clean, structured code that follows best practice
 
 | GitHub Stats | Top Languages |
 |--------------|---------------|
-| <a href="https://github.com/muntasirmoin/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=muntasirmoin&show_icons=true&theme=dracula&hide=contribs" alt="GitHub Stats" />
-</a>
- | <a href="https://github.com/muntasirmoin/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirmoin&layout=compact&theme=dracula&hide=html,php&card_width=400" alt="Top Languages" /></a> |
+| <a href="https://github.com/muntasirmoin/github-readme-stats">  <img src="https://github-readme-stats.vercel.app/api?username=muntasirmoin&show_icons=true&theme=dracula&hide=contribs" alt="GitHub Stats" />
+</a> | <a href="https://github.com/muntasirmoin/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirmoin&layout=compact&theme=dracula&hide=html,php&card_width=400" alt="Top Languages" /></a> |
 
 
 
