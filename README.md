@@ -130,7 +130,7 @@ My approach emphasizes writing clean, structured code that follows best practice
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirmoin&layout=compact&theme=dracula&hide=html,php&card_width=400" alt="Top Languages" />
   </a>
 </p>
-<br/>
+
 <br/>
 
 ---
@@ -138,12 +138,17 @@ My approach emphasizes writing clean, structured code that follows best practice
 
 ## 📫 Contact
 
-- 📧 Email: `muntasirmoinchowdhury099@gmail.com`  
-- 💼 LinkedIn: 
-- 🌐 Portfolio: 
+
+<p align="">
+ 📧 Email: `muntasirmoinchowdhury099@gmail.com`  
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/muntasir-moin-chowdhury">Muntasir Moin Chowdhury</a>  
+- 🌐 Portfolio: <a href="https://muntasirmoinportfolio.vercel.app/">muntasirmoinportfolio.vercel.app</a>
+</p>
+
 
 ---
+### <p align="center">🎉 Thanks for visiting my GitHub! I hope you find something interesting!</p>
 
-### 🙌 Thank you for visiting my portfolio!
-
+<p align="center">
 Feel free to explore my repositories and connect if you'd like to collaborate!
+</p>
