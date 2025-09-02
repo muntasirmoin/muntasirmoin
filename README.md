@@ -17,7 +17,7 @@ My approach emphasizes writing clean, structured code that follows best practice
 
 <table align="center">
   <tr>
-    <!-- GitHub Total Contributions -->
+    <!-- GitHub Stats -->
     <td align="center">
       <a href="https://github.com/muntasirmoin/github-readme-stats">
         <img 
@@ -48,6 +48,7 @@ My approach emphasizes writing clean, structured code that follows best practice
     </td>
   </tr>
 </table>
+
 
 
 
