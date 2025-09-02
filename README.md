@@ -136,7 +136,7 @@ My approach emphasizes writing clean, structured code that follows best practice
 ---
 
 
-## <p align="center">📫 Contact</p>
+## <p align="center">📫 Connect with Me</p>
 
 <p align="center">
  📧 Email: <a href="mailto:muntasirmoinchowdhury099@gmail.com">muntasirmoinchowdhury099@gmail.com</a>
@@ -151,6 +151,14 @@ My approach emphasizes writing clean, structured code that follows best practice
   &nbsp;&nbsp; <!-- adds space between badges -->
   <a href="https://muntasir-moin-chowdhury-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/muntasir_moin_chowdhury/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/muntasir.moin.chowdhury/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
