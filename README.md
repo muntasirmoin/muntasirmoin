@@ -46,8 +46,19 @@ My approach emphasizes writing clean, structured code that follows best practice
         />
       </a>
     </td>
+
+    <!-- GitHub Trophy -->
+    <td align="center">
+      <a href="https://github.com/muntasirmoin/github-profile-trophy">
+        <img 
+          src="https://github-profile-trophy.vercel.app/?username=muntasirmoin&theme=dracula&no-frame=true&margin-w=5" 
+          alt="GitHub Trophy" 
+        />
+      </a>
+    </td>
   </tr>
 </table>
+
 
 
 
