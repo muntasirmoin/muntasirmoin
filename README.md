@@ -139,14 +139,14 @@ My approach emphasizes writing clean, structured code that follows best practice
 ## <p align="center">📫 Contact</p>
 
 <p align="center">
-- 📧 Email: <a href="mailto:muntasirmoinchowdhury099@gmail.com">muntasirmoinchowdhury099@gmail.com</a>
+ 📧 Email: <a href="mailto:muntasirmoinchowdhury099@gmail.com">muntasirmoinchowdhury099@gmail.com</a>
 </p>
 
 <p align="center">
  
 
   <a href="https://www.linkedin.com/in/muntasir-moin-chowdhury">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp; <!-- adds space between badges -->
   <a href="https://muntasirmoinportfolio.vercel.app/">
