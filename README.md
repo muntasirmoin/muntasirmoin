@@ -12,10 +12,26 @@ My approach emphasizes writing clean, structured code that follows best practice
 
 ## 📊 GitHub Commit Status
 
-| GitHub Stats | Top Languages | GitHub Streak |
-|--------------|---------------|---------------|
-| <a href="https://github.com/muntasirmoin/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=muntasirmoin&show_icons=true&theme=dracula&count_private=true&hide=prs,contribs&include_all_commits=true&card_width=300" alt="GitHub Stats" /></a> | <a href="https://github.com/muntasirmoin/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirmoin&layout=compact&theme=dracula&hide=html,php&card_width=300" alt="Top Languages" /></a> | <a href="https://github.com/muntasirmoin/github-readme-streak-stats"><img src="https://streak-stats.demolab.com?user=muntasirmoin&theme=dracula&hide_border=true&card_width=300" alt="GitHub Streak" /></a> |
+### GitHub Stats
+<p align="center">
+  <a href="https://github.com/muntasirmoin/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=muntasirmoin&show_icons=true&theme=dracula&count_private=true&hide=prs,contribs&include_all_commits=true" alt="GitHub Stats" />
+  </a>
+</p>
 
+### Top Languages
+<p align="center">
+  <a href="https://github.com/muntasirmoin/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirmoin&layout=compact&theme=dracula&card_width=400" alt="Top Languages" />
+  </a>
+</p>
+
+### GitHub Streak
+<p align="center">
+  <a href="https://github.com/muntasirmoin/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=muntasirmoin&theme=dracula" alt="GitHub Streak" />
+  </a>
+</p>
 
 
 
