@@ -92,9 +92,9 @@ My approach emphasizes writing clean, structured code that follows best practice
 
 <p align="center">
 <img height="150" src="https://res.cloudinary.com/dta2gcxsl/image/upload/v1756875984/HTML_1_bzl9ik.png"/>
-<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/CSS.png"/>
-<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Bootstrap.png"/>
-<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Tailwind.png"/>
+<img height="150" src="https://res.cloudinary.com/dta2gcxsl/image/upload/v1756876225/CSS_1_wi4uue.png"/>
+<img height="150" src="https://res.cloudinary.com/dta2gcxsl/image/upload/v1756876226/Bootstrap_z8qtum.png"/>
+<img height="150" src="https://res.cloudinary.com/dta2gcxsl/image/upload/v1756876224/Tailwind_luyai6.png"/>
 </p>
 <p align="center">
 <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JavaScript.png"/>
