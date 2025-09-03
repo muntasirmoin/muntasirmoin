@@ -103,10 +103,10 @@ My approach emphasizes writing clean, structured code that follows best practice
 <img height="150" src="https://res.cloudinary.com/dta2gcxsl/image/upload/v1756876486/Firebase_1_xsvrhx.png"/>
 </p>
 <p align="center">
-<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Nodejs.png"/>
-<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Express.png"/>
-<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/MongoDB.png"/>
-<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JWT.png"/>
+<img height="150" src="https://res.cloudinary.com/dta2gcxsl/image/upload/v1756876692/Nodejs_z8nypq.png"/>
+<img height="150" src="https://res.cloudinary.com/dta2gcxsl/image/upload/v1756876692/Express_c2altb.png"/>
+<img height="150" src="https://res.cloudinary.com/dta2gcxsl/image/upload/v1756876692/MongoDB_kxxyhh.png"/>
+<img height="150" src="https://res.cloudinary.com/dta2gcxsl/image/upload/v1756876692/JWT_v8ehps.png"/>
 </p>
 
 <br />
