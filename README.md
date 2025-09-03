@@ -97,10 +97,10 @@ My approach emphasizes writing clean, structured code that follows best practice
 <img height="150" src="https://res.cloudinary.com/dta2gcxsl/image/upload/v1756876224/Tailwind_luyai6.png"/>
 </p>
 <p align="center">
-<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JavaScript.png"/>
-<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/React.png"/>
-<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/ReactRouterDom.png"/>
-<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Firebase.png"/>
+<img height="150" src="https://res.cloudinary.com/dta2gcxsl/image/upload/v1756876487/JavaScript_u9up3v.png"/>
+<img height="150" src="https://res.cloudinary.com/dta2gcxsl/image/upload/v1756876487/React_1_vozdb2.png"/>
+<img height="150" src="https://res.cloudinary.com/dta2gcxsl/image/upload/v1756876486/ReactRouterDom_uvgdg6.png"/>
+<img height="150" src="https://res.cloudinary.com/dta2gcxsl/image/upload/v1756876486/Firebase_1_xsvrhx.png"/>
 </p>
 <p align="center">
 <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Nodejs.png"/>
